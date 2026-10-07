@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="Order.API/OrderMicroservice.API.csproj" Id="e0013926-02c1-4c24-8058-c444e84e96ab" />
+  <Project Path="Order.ApplicationCore/OrderMicroservice.ApplicationCore.csproj" Id="b865f746-2087-4d07-b9b6-63fb1f6cdf8d" />
+  <Project Path="Order.Infrastructure/OrderMicroservice.Infrastructure.csproj" Id="ed00c3e6-29ac-4353-9b3d-d2cc8f5dd899" />
+  <Project Path="Product.API/ProductMicroservice.API.csproj" />
+  <Project Path="Product.ApplicationCore/ProductMicroservice.ApplicationCore.csproj" />
+  <Project Path="Product.Infrastructure/ProductMicroservice.Infrastructure.csproj" />
+  <Project Path="Promotions.API/PromotionsMicroservice.API.csproj" Id="ceab0b81-2ecf-421e-838b-c1b36a3a08af" />
+  <Project Path="Promotions.ApplicatinCore/PromotionsMicroservice.ApplicationCore.csproj" Id="e5ed95c0-f316-4d24-9892-4bd598a02cbd" />
+  <Project Path="Promotions.Infrastructure/PromotionsMicroservice.Infrastructure.csproj" Id="2176916a-92ba-4281-87a6-0b26ab0c8640" />
+  <Project Path="Reviews.API/ReviewsMicroservice.API.csproj" Id="7d68034e-406b-4b73-82f9-236207d29b3f" />
+  <Project Path="Reviews.ApplicationCore/ReviewsMicroservice.ApplicationCore.csproj" Id="585af52c-16b5-4372-9a1f-d9dc51a15481" />
+  <Project Path="Reviews.Infrastructure/ReviewsMicroservice.Infrastructure.csproj" Id="2d493c9b-2bce-4dc6-9c84-02ea2ff041ae" />
+  <Project Path="Shipping.API/ShippingMicroservice.API.csproj" Id="f3139be2-629b-43d2-98ca-4821a5b07424" />
+  <Project Path="Shipping.ApplicationCore/ShippingMicroservice.ApplicationCore.csproj" Id="ef109dc0-064a-4ada-82f0-7fb901a9197f" />
+  <Project Path="Shipping.Infrastructure/ShippingMicroservice.Infrastructure.csproj" Id="70d728eb-3f50-4edd-99b6-7a842259c81d" />
+</Solution>

@@ -1,0 +1,11 @@
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\bin\Debug\net10.0\Reviews.ApplicationCore.deps.json
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\bin\Debug\net10.0\Reviews.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\bin\Debug\net10.0\Reviews.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\Reviews.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\Reviews.ApplicationCore.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\Reviews.ApplicationCore.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\Reviews.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\Reviews.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\refint\Reviews.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\Reviews.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Reviews.ApplicationCore\obj\Debug\net10.0\ref\Reviews.ApplicationCore.dll

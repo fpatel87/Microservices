@@ -1,0 +1,156 @@
+[
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "GetAll",
+    "RelativePath": "api/CustomerReview",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "Create",
+    "RelativePath": "api/CustomerReview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "review",
+        "Type": "ReviewsMicroservice.ApplicationCore.Models.CustomerReview",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "Update",
+    "RelativePath": "api/CustomerReview",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "review",
+        "Type": "ReviewsMicroservice.ApplicationCore.Models.CustomerReview",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "GetById",
+    "RelativePath": "api/CustomerReview/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "Approve",
+    "RelativePath": "api/CustomerReview/approve/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "Delete",
+    "RelativePath": "api/CustomerReview/delete-{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "GetByProductId",
+    "RelativePath": "api/CustomerReview/product/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "Reject",
+    "RelativePath": "api/CustomerReview/reject/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "GetByUserId",
+    "RelativePath": "api/CustomerReview/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReviewsMicroservice.API.Controllers.CustomerReviewController",
+    "Method": "GetByYear",
+    "RelativePath": "api/CustomerReview/year/{year}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\bin\Debug\net10.0\Order.ApplicationCore.deps.json
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\bin\Debug\net10.0\Order.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\bin\Debug\net10.0\Order.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\Order.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\Order.ApplicationCore.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\Order.ApplicationCore.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\Order.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\Order.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\refint\Order.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\Order.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Order.ApplicationCore\obj\Debug\net10.0\ref\Order.ApplicationCore.dll

@@ -1,0 +1,17 @@
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\bin\Debug\net10.0\Reviews.Infrastructure.deps.json
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\bin\Debug\net10.0\Reviews.Infrastructure.runtimeconfig.json
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\bin\Debug\net10.0\Reviews.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\bin\Debug\net10.0\Reviews.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\bin\Debug\net10.0\Reviews.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\bin\Debug\net10.0\Reviews.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.csproj.AssemblyReference.cache
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews..8047F348.Up2Date
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\refint\Reviews.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\Reviews.Infrastructure.genruntimeconfig.cache
+C:\CSharpAssignment\Microservices\eShop\Reviews.Infrastructure\obj\Debug\net10.0\ref\Reviews.Infrastructure.dll

@@ -1,0 +1,17 @@
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.csproj.AssemblyReference.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\ProductMicroservice.Infrastructure.deps.json
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\ProductMicroservice.Infrastructure.runtimeconfig.json
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\ProductMicroservice.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\ProductMicroservice.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\ProductMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\ProductMicroservice.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductM.62CD6747.Up2Date
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\refint\ProductMicroservice.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ProductMicroservice.Infrastructure.genruntimeconfig.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ref\ProductMicroservice.Infrastructure.dll

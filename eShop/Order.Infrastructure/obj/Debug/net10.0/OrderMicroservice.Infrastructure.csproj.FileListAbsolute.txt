@@ -1,0 +1,17 @@
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\bin\Debug\net10.0\OrderMicroservice.Infrastructure.deps.json
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\bin\Debug\net10.0\OrderMicroservice.Infrastructure.runtimeconfig.json
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\bin\Debug\net10.0\OrderMicroservice.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\bin\Debug\net10.0\OrderMicroservice.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\bin\Debug\net10.0\OrderMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\bin\Debug\net10.0\OrderMicroservice.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.csproj.AssemblyReference.cache
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMic.3F9C627B.Up2Date
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\refint\OrderMicroservice.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\OrderMicroservice.Infrastructure.genruntimeconfig.cache
+C:\CSharpAssignment\Microservices\eShop\Order.Infrastructure\obj\Debug\net10.0\ref\OrderMicroservice.Infrastructure.dll

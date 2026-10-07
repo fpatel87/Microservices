@@ -1,0 +1,17 @@
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\Shipping.ApplicationCore.deps.json
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\Shipping.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\Shipping.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.ApplicationCore.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.ApplicationCore.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\refint\Shipping.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ref\Shipping.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\Reviews.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\Reviews.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\Reviews.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\Reviews.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.ApplicationCore.csproj.AssemblyReference.cache
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.660A9664.Up2Date

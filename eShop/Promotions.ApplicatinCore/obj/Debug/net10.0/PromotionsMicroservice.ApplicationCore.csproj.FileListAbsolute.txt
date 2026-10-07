@@ -1,0 +1,11 @@
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\PromotionsMicroservice.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\PromotionsMicroservice.ApplicationCore.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\PromotionsMicroservice.ApplicationCore.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\PromotionsMicroservice.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\bin\Debug\net10.0\PromotionsMicroservice.ApplicationCore.deps.json
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\bin\Debug\net10.0\PromotionsMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\bin\Debug\net10.0\PromotionsMicroservice.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\PromotionsMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\refint\PromotionsMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\PromotionsMicroservice.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Promotions.ApplicatinCore\obj\Debug\net10.0\ref\PromotionsMicroservice.ApplicationCore.dll

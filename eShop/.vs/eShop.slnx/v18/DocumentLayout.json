@@ -1,0 +1,2192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpAssignment\\Microservices\\eShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\PromotionsMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.api\\promotionsmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\PromotionsMicroservice.API.csproj|solutionrelative:promotions.api\\promotionsmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\PromotionsMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.applicatincore\\models\\promotiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\PromotionsMicroservice.ApplicationCore.csproj|solutionrelative:promotions.applicatincore\\models\\promotiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Migrations\\20261007174646_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Promotions.Infrastructure\\Migrations\\20261007174646_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\Promotions.API.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\Promotions.API.csproj|solutionrelative:promotions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\Promotions.API.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.api\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\Promotions.API.csproj|solutionrelative:promotions.api\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\Promotions.API.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAB0B81-2ECF-421E-838B-C1B36A3A08AF}|Promotions.API\\Promotions.API.csproj|solutionrelative:promotions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176916A-92BA-4281-87A6-0B26AB0C8640}|Promotions.Infrastructure\\Promotions.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.infrastructure\\services\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176916A-92BA-4281-87A6-0B26AB0C8640}|Promotions.Infrastructure\\Promotions.Infrastructure.csproj|solutionrelative:promotions.infrastructure\\services\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\Promotions.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.applicatincore\\services\\ipromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\Promotions.ApplicationCore.csproj|solutionrelative:promotions.applicatincore\\services\\ipromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176916A-92BA-4281-87A6-0B26AB0C8640}|Promotions.Infrastructure\\Promotions.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.infrastructure\\repositories\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176916A-92BA-4281-87A6-0B26AB0C8640}|Promotions.Infrastructure\\Promotions.Infrastructure.csproj|solutionrelative:promotions.infrastructure\\repositories\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\PromotionsMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.applicatincore\\repositories\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\PromotionsMicroservice.ApplicationCore.csproj|solutionrelative:promotions.applicatincore\\repositories\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\PromotionsMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.applicatincore\\models\\promotionsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5ED95C0-F316-4D24-9892-4BD598A02CBD}|Promotions.ApplicatinCore\\PromotionsMicroservice.ApplicationCore.csproj|solutionrelative:promotions.applicatincore\\models\\promotionsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176916A-92BA-4281-87A6-0B26AB0C8640}|Promotions.Infrastructure\\Promotions.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\promotions.infrastructure\\data\\promotionsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176916A-92BA-4281-87A6-0B26AB0C8640}|Promotions.Infrastructure\\Promotions.Infrastructure.csproj|solutionrelative:promotions.infrastructure\\data\\promotionsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D493C9B-2BCE-4DC6-9C84-02EA2FF041AE}|Reviews.Infrastructure\\Reviews.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\reviews.infrastructure\\data\\reviewsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D493C9B-2BCE-4DC6-9C84-02EA2FF041AE}|Reviews.Infrastructure\\Reviews.Infrastructure.csproj|solutionrelative:reviews.infrastructure\\data\\reviewsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D68034E-406B-4B73-82F9-236207D29B3F}|Reviews.API\\Reviews.API.csproj|c:\\csharpassignment\\microservices\\eshop\\reviews.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D68034E-406B-4B73-82F9-236207D29B3F}|Reviews.API\\Reviews.API.csproj|solutionrelative:reviews.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585AF52C-16B5-4372-9A1F-D9DC51A15481}|Reviews.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\reviews.applicationcore\\reviewsmicroservice.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{585AF52C-16B5-4372-9A1F-D9DC51A15481}|Reviews.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj|solutionrelative:reviews.applicationcore\\reviewsmicroservice.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.api\\controllers\\shippingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|solutionrelative:shipping.api\\controllers\\shippingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.api\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|solutionrelative:shipping.api\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\models\\shipperrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\models\\shipperrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\models\\shippingdetailsresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\models\\shippingdetailsresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\models\\shippingdetailsrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\models\\shippingdetailsrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\models\\shipperresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\models\\shipperresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\ordermicroservice.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\ordermicroservice.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.infrastructure\\services\\shippingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|solutionrelative:shipping.infrastructure\\services\\shippingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.infrastructure\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|solutionrelative:shipping.infrastructure\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.infrastructure\\repositories\\shippingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|solutionrelative:shipping.infrastructure\\repositories\\shippingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.infrastructure\\repositories\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|solutionrelative:shipping.infrastructure\\repositories\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\repositories\\ishippingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\repositories\\ishippingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\repositories\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\repositories\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.infrastructure\\shippingmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|solutionrelative:shipping.infrastructure\\shippingmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.api\\shippingmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|solutionrelative:shipping.api\\shippingmicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\services\\ishippingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\services\\ishippingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\services\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\services\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\models\\variationvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\models\\variationvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\repositories\\categoryvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\repositories\\categoryvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\migrations\\20260927043514_initialproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\migrations\\20260927043514_initialproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\controllers\\productvariationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\controllers\\productvariationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\controllers\\variationvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\controllers\\variationvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\controllers\\categoryvariationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\controllers\\categoryvariationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\data\\shopdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\data\\shopdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\ordermicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\ordermicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\services\\shoppingcartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\services\\shoppingcartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\repositories\\shoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\repositories\\shoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\controllers\\shoppingcartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\controllers\\shoppingcartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\services\\ishoppingcartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\services\\ishoppingcartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\services\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\services\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\repositories\\ishoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\repositories\\ishoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\ordermicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\ordermicroservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Migrations\\20260928000050_InitialOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Order.Infrastructure\\Migrations\\20260928000050_InitialOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\20260927041441_InitialProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product.Infrastructure\\Migrations\\20260927041441_InitialProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\migrations\\20261003192920_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\migrations\\20261003192920_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\order.infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00C3E6-29AC-4353-9B3D-D2CC8F5DD899}|Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj|solutionrelative:order.infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\order.api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0013926-02C1-4C24-8058-C444E84E96AB}|Order.API\\OrderMicroservice.API.csproj|solutionrelative:order.api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\models\\shoppingcartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\models\\shoppingcartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\models\\customeraddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\models\\customeraddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\models\\orderstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\models\\orderstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\order.applicationcore\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865F746-2087-4D07-B9B6-63FB1F6CDF8D}|Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj|solutionrelative:order.applicationcore\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\repositories\\variationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\repositories\\variationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\repositories\\productvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\repositories\\productvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\productvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\productvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\variationvalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\variationvalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\categoryvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\categoryvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\iproductvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\iproductvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\ivariationvalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\ivariationvalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\icategoryvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\icategoryvariationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\repositories\\ivariationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\repositories\\ivariationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\repositories\\icategoryvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\repositories\\icategoryvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\repositories\\iproductvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\repositories\\iproductvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\models\\categoryvariation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\models\\categoryvariation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\product.applicationcore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A4FB18-8A02-8A79-CEDE-ECC1BBF29E10}|Product.ApplicationCore\\ProductMicroservice.ApplicationCore.csproj|solutionrelative:product.applicationcore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\productmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\productmicroservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\product.api\\controllers\\productcontroller.cs||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CF453461-4EEA-B69B-5C36-92CE368C9EAB}|Product.API\\ProductMicroservice.API.csproj|solutionrelative:product.api\\controllers\\productcontroller.cs||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\product.infrastructure\\migrations\\20260927043514_initialproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FFE095-2ECB-175A-B427-66E4DBCF94D4}|Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj|solutionrelative:product.infrastructure\\migrations\\20260927043514_initialproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|solutionrelative:shipping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.infrastructure\\migrations\\20261007051901_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|solutionrelative:shipping.infrastructure\\migrations\\20261007051901_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.infrastructure\\data\\shippingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D728EB-3F50-4EDD-99B6-7A842259C81D}|Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj|solutionrelative:shipping.infrastructure\\data\\shippingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3139BE2-629B-43D2-98CA-4821A5B07424}|Shipping.API\\ShippingMicroservice.API.csproj|solutionrelative:shipping.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\entities\\shipperregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\entities\\shipperregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|c:\\csharpassignment\\microservices\\eshop\\shipping.applicationcore\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF109DC0-064A-4ADA-82F0-7FB901A9197F}|Shipping.ApplicationCore\\ShippingMicroservice.ApplicationCore.csproj|solutionrelative:shipping.applicationcore\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPromotionService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Services\\IPromotionService.cs",
+              "RelativeDocumentMoniker": "Promotions.ApplicatinCore\\Services\\IPromotionService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Services\\IPromotionService.cs",
+              "RelativeToolTip": "Promotions.ApplicatinCore\\Services\\IPromotionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:10:08.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\Program.cs",
+              "RelativeDocumentMoniker": "Promotions.API\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\Program.cs",
+              "RelativeToolTip": "Promotions.API\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:05:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromotionController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\Controllers\\PromotionController.cs",
+              "RelativeDocumentMoniker": "Promotions.API\\Controllers\\PromotionController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\Controllers\\PromotionController.cs",
+              "RelativeToolTip": "Promotions.API\\Controllers\\PromotionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:12:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Promotions.API\\appsettings.json",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\appsettings.json",
+              "RelativeToolTip": "Promotions.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T17:05:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromotionDetail.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Models\\PromotionDetail.cs",
+              "RelativeDocumentMoniker": "Promotions.ApplicatinCore\\Models\\PromotionDetail.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Models\\PromotionDetail.cs",
+              "RelativeToolTip": "Promotions.ApplicatinCore\\Models\\PromotionDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:04:35.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromotionsMicroservice.API",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\PromotionsMicroservice.API.csproj",
+              "RelativeDocumentMoniker": "Promotions.API\\PromotionsMicroservice.API.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.API\\PromotionsMicroservice.API.csproj",
+              "RelativeToolTip": "Promotions.API\\PromotionsMicroservice.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-07T17:42:29.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261007174646_InitialCreate.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Migrations\\20261007174646_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Promotions.Infrastructure\\Migrations\\20261007174646_InitialCreate.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Migrations\\20261007174646_InitialCreate.cs",
+              "RelativeToolTip": "Promotions.Infrastructure\\Migrations\\20261007174646_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:46:46.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PromotionRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Repositories\\PromotionRepository.cs",
+              "RelativeDocumentMoniker": "Promotions.Infrastructure\\Repositories\\PromotionRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Repositories\\PromotionRepository.cs",
+              "RelativeToolTip": "Promotions.Infrastructure\\Repositories\\PromotionRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:09:39.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPromotionRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Repositories\\IPromotionRepository.cs",
+              "RelativeDocumentMoniker": "Promotions.ApplicatinCore\\Repositories\\IPromotionRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Repositories\\IPromotionRepository.cs",
+              "RelativeToolTip": "Promotions.ApplicatinCore\\Repositories\\IPromotionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:08:52.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PromotionSale.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Models\\PromotionSale.cs",
+              "RelativeDocumentMoniker": "Promotions.ApplicatinCore\\Models\\PromotionSale.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.ApplicatinCore\\Models\\PromotionSale.cs",
+              "RelativeToolTip": "Promotions.ApplicatinCore\\Models\\PromotionSale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:04:16.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PromotionService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Services\\PromotionService.cs",
+              "RelativeDocumentMoniker": "Promotions.Infrastructure\\Services\\PromotionService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Services\\PromotionService.cs",
+              "RelativeToolTip": "Promotions.Infrastructure\\Services\\PromotionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:10:47.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PromotionsDbContext.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Data\\PromotionsDbContext.cs",
+              "RelativeDocumentMoniker": "Promotions.Infrastructure\\Data\\PromotionsDbContext.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Promotions.Infrastructure\\Data\\PromotionsDbContext.cs",
+              "RelativeToolTip": "Promotions.Infrastructure\\Data\\PromotionsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:05:15.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewsDbContext.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Reviews.Infrastructure\\Data\\ReviewsDbContext.cs",
+              "RelativeDocumentMoniker": "Reviews.Infrastructure\\Data\\ReviewsDbContext.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Reviews.Infrastructure\\Data\\ReviewsDbContext.cs",
+              "RelativeToolTip": "Reviews.Infrastructure\\Data\\ReviewsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:58:56.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewsMicroservice.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Reviews.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "Reviews.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Reviews.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "RelativeToolTip": "Reviews.ApplicationCore\\ReviewsMicroservice.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-07T16:48:51.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Reviews.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Reviews.API\\appsettings.json",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Reviews.API\\appsettings.json",
+              "RelativeToolTip": "Reviews.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T00:59:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "Shipping.API\\Controllers\\ShipperController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "Shipping.API\\Controllers\\ShipperController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwF8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:30:13.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShippingDetailsController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\Controllers\\ShippingDetailsController.cs",
+              "RelativeDocumentMoniker": "Shipping.API\\Controllers\\ShippingDetailsController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\Controllers\\ShippingDetailsController.cs",
+              "RelativeToolTip": "Shipping.API\\Controllers\\ShippingDetailsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:44:38.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShippingDetailsResponseModel.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShippingDetailsResponseModel.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Models\\ShippingDetailsResponseModel.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShippingDetailsResponseModel.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Models\\ShippingDetailsResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:28:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShippingDetailsRequestModel.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShippingDetailsRequestModel.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Models\\ShippingDetailsRequestModel.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShippingDetailsRequestModel.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Models\\ShippingDetailsRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:28:05.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShipperResponseModel.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShipperResponseModel.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Models\\ShipperResponseModel.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShipperResponseModel.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Models\\ShipperResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:27:45.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShipperRequestModel.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShipperRequestModel.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Models\\ShipperRequestModel.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Models\\ShipperRequestModel.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Models\\ShipperRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:27:26.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShippingDetailsService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Services\\ShippingDetailsService.cs",
+              "RelativeDocumentMoniker": "Shipping.Infrastructure\\Services\\ShippingDetailsService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Services\\ShippingDetailsService.cs",
+              "RelativeToolTip": "Shipping.Infrastructure\\Services\\ShippingDetailsService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:24:40.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Services\\ShipperService.cs",
+              "RelativeDocumentMoniker": "Shipping.Infrastructure\\Services\\ShipperService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Services\\ShipperService.cs",
+              "RelativeToolTip": "Shipping.Infrastructure\\Services\\ShipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:24:15.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShippingDetailsRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Repositories\\ShippingDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Shipping.Infrastructure\\Repositories\\ShippingDetailsRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Repositories\\ShippingDetailsRepository.cs",
+              "RelativeToolTip": "Shipping.Infrastructure\\Repositories\\ShippingDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:22:54.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\Program.cs",
+              "RelativeDocumentMoniker": "Shipping.API\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\Program.cs",
+              "RelativeToolTip": "Shipping.API\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:07:09.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderMicroservice.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj",
+              "RelativeToolTip": "Order.ApplicationCore\\OrderMicroservice.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T23:45:59.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShipperRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Repositories\\ShipperRepository.cs",
+              "RelativeDocumentMoniker": "Shipping.Infrastructure\\Repositories\\ShipperRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Repositories\\ShipperRepository.cs",
+              "RelativeToolTip": "Shipping.Infrastructure\\Repositories\\ShipperRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:22:23.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20261007051901_InitialCreate.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Migrations\\20261007051901_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Shipping.Infrastructure\\Migrations\\20261007051901_InitialCreate.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Migrations\\20261007051901_InitialCreate.cs",
+              "RelativeToolTip": "Shipping.Infrastructure\\Migrations\\20261007051901_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:19:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IShipperRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Repositories\\IShipperRepository.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Repositories\\IShipperRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Repositories\\IShipperRepository.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Repositories\\IShipperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T04:56:03.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IShippingDetailsRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Repositories\\IShippingDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Repositories\\IShippingDetailsRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Repositories\\IShippingDetailsRepository.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Repositories\\IShippingDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:14:48.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\Region.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Entities\\Region.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\Region.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Entities\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:02:08.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\Shipper.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Entities\\Shipper.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\Shipper.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Entities\\Shipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:03:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "ShippingDbContext.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Data\\ShippingDbContext.cs",
+              "RelativeDocumentMoniker": "Shipping.Infrastructure\\Data\\ShippingDbContext.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\Data\\ShippingDbContext.cs",
+              "RelativeToolTip": "Shipping.Infrastructure\\Data\\ShippingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:09:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShippingMicroservice.API.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\ShippingMicroservice.API.csproj",
+              "RelativeDocumentMoniker": "Shipping.API\\ShippingMicroservice.API.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\ShippingMicroservice.API.csproj",
+              "RelativeToolTip": "Shipping.API\\ShippingMicroservice.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-07T04:46:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Shipping.API\\appsettings.json",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.API\\appsettings.json",
+              "RelativeToolTip": "Shipping.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T00:06:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShippingMicroservice.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj",
+              "RelativeToolTip": "Shipping.Infrastructure\\ShippingMicroservice.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T00:25:31.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IShippingDetailsService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Services\\IShippingDetailsService.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Services\\IShippingDetailsService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Services\\IShippingDetailsService.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Services\\IShippingDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:15:55.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IshipperService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Services\\IshipperService.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Services\\IshipperService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Services\\IshipperService.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Services\\IshipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T04:57:32.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "ShipperRegion.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\ShipperRegion.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Entities\\ShipperRegion.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\ShipperRegion.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Entities\\ShipperRegion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:03:49.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "ShippingDetails.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\ShippingDetails.cs",
+              "RelativeDocumentMoniker": "Shipping.ApplicationCore\\Entities\\ShippingDetails.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Shipping.ApplicationCore\\Entities\\ShippingDetails.cs",
+              "RelativeToolTip": "Shipping.ApplicationCore\\Entities\\ShippingDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:04:05.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductVariationController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\ProductVariationController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\ProductVariationController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\ProductVariationController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\ProductVariationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:20:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VariationValue.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\VariationValue.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Models\\VariationValue.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\VariationValue.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Models\\VariationValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:03:51.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswHgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:48:26.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAwwLIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:06:04.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260927043514_InitialProduct.Designer.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.Designer.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.Designer.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAIBZwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:28:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryVariationRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\CategoryVariationRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Repositories\\CategoryVariationRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\CategoryVariationRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Repositories\\CategoryVariationRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwD8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:28:55.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:57:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Program.cs",
+              "RelativeDocumentMoniker": "Product.API\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Program.cs",
+              "RelativeToolTip": "Product.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:10:40.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VariationValueController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\VariationValueController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\VariationValueController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\VariationValueController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\VariationValueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:21:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:22:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:28:50.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryVariationController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\CategoryVariationController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\CategoryVariationController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\CategoryVariationController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\CategoryVariationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:18:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:28:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ProductVariationRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\ProductVariationRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Repositories\\ProductVariationRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\ProductVariationRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Repositories\\ProductVariationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:30:04.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "VariationValueRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\VariationValueRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Repositories\\VariationValueRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Repositories\\VariationValueRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Repositories\\VariationValueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:29:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\ProductService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ProductService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwDIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:04:56.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\IProductService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\IProductService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:50:42.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ProductVariationService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ProductVariationService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\ProductVariationService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ProductVariationService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\ProductVariationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:57:58.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "VariationValueService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\VariationValueService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\VariationValueService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\VariationValueService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\VariationValueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:08:08.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CategoryVariationService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\CategoryVariationService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\CategoryVariationService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\CategoryVariationService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\CategoryVariationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:56:49.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:47:06.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:53:16.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "IProductVariationService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\IProductVariationService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\IProductVariationService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\IProductVariationService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\IProductVariationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:47:56.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "IVariationValueService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\IVariationValueService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\IVariationValueService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\IVariationValueService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\IVariationValueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:47:39.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "ICategoryVariationService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ICategoryVariationService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\ICategoryVariationService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ICategoryVariationService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\ICategoryVariationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:46:59.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:47:29.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "IVariationValueRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\IVariationValueRepository.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Repositories\\IVariationValueRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\IVariationValueRepository.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Repositories\\IVariationValueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:43:59.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ICategoryVariationRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\ICategoryVariationRepository.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Repositories\\ICategoryVariationRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\ICategoryVariationRepository.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Repositories\\ICategoryVariationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:43:10.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "IProductVariationRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\IProductVariationRepository.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Repositories\\IProductVariationRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\IProductVariationRepository.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Repositories\\IProductVariationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:42:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:43:00.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Models\\Product.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\Product.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:01:42.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Product.API\\appsettings.json",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\appsettings.json",
+              "RelativeToolTip": "Product.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T04:10:19.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "CategoryVariation.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\CategoryVariation.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Models\\CategoryVariation.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\CategoryVariation.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Models\\CategoryVariation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:03:24.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Product.ApplicationCore\\Models\\Category.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.ApplicationCore\\Models\\Category.cs",
+              "RelativeToolTip": "Product.ApplicationCore\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:02:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ProductMicroservice.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj",
+              "RelativeToolTip": "Product.Infrastructure\\ProductMicroservice.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-04T04:01:53.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Order.API\\appsettings.json",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\appsettings.json",
+              "RelativeToolTip": "Order.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T23:44:39.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Order.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Order.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:57:13.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\PaymentType.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\PaymentType.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\PaymentType.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:44:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Order.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Order.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:50:18.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:50:10.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Order.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Order.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:49:49.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:51:35.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Data\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Data\\ShopDbContext.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Data\\ShopDbContext.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Data\\ShopDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:44:14.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:45:04.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ShopDbContextFactory.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Data\\ShopDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Data\\ShopDbContextFactory.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Data\\ShopDbContextFactory.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Data\\ShopDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:31:16.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Program.cs",
+              "RelativeDocumentMoniker": "Order.API\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Program.cs",
+              "RelativeToolTip": "Order.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwBMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:44:55.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderMicroservice.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
+              "RelativeToolTip": "Order.Infrastructure\\OrderMicroservice.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-03T19:22:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20261003192920_InitialCreate.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Migrations\\20261003192920_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Migrations\\20261003192920_InitialCreate.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Migrations\\20261003192920_InitialCreate.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Migrations\\20261003192920_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:29:20.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:11:21.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:54:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ShoppingCartItemService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:55:35.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Services\\ShoppingCartService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\ShoppingCartService.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Services\\ShoppingCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:55:12.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Services\\OrderDetailService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Services\\OrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:55:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:54:34.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:12:06.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShoppingCartItemRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\ShoppingCartItemRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repositories\\ShoppingCartItemRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\ShoppingCartItemRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repositories\\ShoppingCartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:12:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:52:05.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:49:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ShoppingCartItemController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\ShoppingCartItemController.cs",
+              "RelativeDocumentMoniker": "Order.API\\Controllers\\ShoppingCartItemController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\ShoppingCartItemController.cs",
+              "RelativeToolTip": "Order.API\\Controllers\\ShoppingCartItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:08:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:51:35.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Order.API\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Order.API\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:50:45.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ShoppingCartRequest.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\ShoppingCartRequest.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Models\\ShoppingCartRequest.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\ShoppingCartRequest.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Models\\ShoppingCartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:48:12.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Models\\PaymentRequest.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\PaymentRequest.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Models\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:48:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "CustomerAddressRequest.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\CustomerAddressRequest.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Models\\CustomerAddressRequest.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\CustomerAddressRequest.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Models\\CustomerAddressRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:47:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "OrderStatusRequest.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\OrderStatusRequest.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Models\\OrderStatusRequest.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Models\\OrderStatusRequest.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Models\\OrderStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:47:50.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UserAddress.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\UserAddress.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\UserAddress.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\UserAddress.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\UserAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:44:26.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:46:32.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:46:02.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:46:17.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\Order.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\Order.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:42:12.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\Customer.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\Customer.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:40:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entities\\Address.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Entities\\Address.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:43:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:51:11.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IShoppingCartItemService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IShoppingCartItemService.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Services\\IShoppingCartItemService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IShoppingCartItemService.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Services\\IShoppingCartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:52:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Services\\IShoppingCartService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IShoppingCartService.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Services\\IShoppingCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:51:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:53:14.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Services\\IOrderDetailService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Services\\IOrderDetailService.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Services\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:53:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Repositories\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Repositories\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:45:24.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IShoppingCartItemRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IShoppingCartItemRepository.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Repositories\\IShoppingCartItemRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IShoppingCartItemRepository.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Repositories\\IShoppingCartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:45:45.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Repositories\\IPaymentRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IPaymentRepository.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Repositories\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:44:59.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:49:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Repositories\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Repositories\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:50:08.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.ApplicationCore\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:44:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "OrderMicroservice.API.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\OrderMicroservice.API.csproj",
+              "RelativeDocumentMoniker": "Order.API\\OrderMicroservice.API.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.API\\OrderMicroservice.API.csproj",
+              "RelativeToolTip": "Order.API\\OrderMicroservice.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-03T18:17:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20260928000050_InitialOrder.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Migrations\\20260928000050_InitialOrder.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Migrations\\20260928000050_InitialOrder.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Order.Infrastructure\\Migrations\\20260928000050_InitialOrder.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Migrations\\20260928000050_InitialOrder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:00:50.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:30:39.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20260927043514_InitialProduct.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Migrations\\20260927043514_InitialProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:35:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260927041441_InitialProduct.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\20260927041441_InitialProduct.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Migrations\\20260927041441_InitialProduct.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Microservices\\eShop\\Product.Infrastructure\\Migrations\\20260927041441_InitialProduct.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Migrations\\20260927041441_InitialProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T04:14:41.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

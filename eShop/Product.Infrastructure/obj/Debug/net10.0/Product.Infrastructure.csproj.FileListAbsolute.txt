@@ -1,0 +1,17 @@
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.deps.json
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.runtimeconfig.json
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\Product.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\bin\Debug\net10.0\Product.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.csproj.AssemblyReference.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product..29DFF9BD.Up2Date
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\refint\Product.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.genruntimeconfig.cache
+C:\CSharpAssignment\Microservices\eShop\Product.Infrastructure\obj\Debug\net10.0\ref\Product.Infrastructure.dll

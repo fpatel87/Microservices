@@ -1,0 +1,17 @@
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ShippingMicroservice.ApplicationCore.csproj.AssemblyReference.cache
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ShippingMicroservice.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ShippingMicroservice.ApplicationCore.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ShippingMicroservice.ApplicationCore.AssemblyInfo.cs
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ShippingMicroservice.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\ShippingMicroservice.ApplicationCore.deps.json
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\ShippingMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\ShippingMicroservice.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\Shipping.AB362D79.Up2Date
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ShippingMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\refint\ShippingMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ShippingMicroservice.ApplicationCore.pdb
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\obj\Debug\net10.0\ref\ShippingMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\ReviewsMicroservice.ApplicationCore.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\ReviewsMicroservice.Infrastructure.dll
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\ReviewsMicroservice.Infrastructure.pdb
+C:\CSharpAssignment\Microservices\eShop\Shipping.ApplicationCore\bin\Debug\net10.0\ReviewsMicroservice.ApplicationCore.pdb
